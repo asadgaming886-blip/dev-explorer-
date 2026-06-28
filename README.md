@@ -1,1 +1,2 @@
 # dev-explorer-
+DevExplorer is a Java-based desktop application developed as a Data Structures and Algorithms (DSA) semester project. It provides an intuitive interface for exploring and managing files while demonstrating the practical implementation of data structures through a hybrid ADT. The project focuses on efficient file organization, search, and navigation using object-oriented programming principles and Java Swing for the graphical user interface.
